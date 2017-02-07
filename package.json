@@ -5,7 +5,7 @@
   "main": "stylesheets/_cell.scss",
   "eyeglass": {
     "needs": "^1.0.0",
-    "name": "cell",
+    "name": "layout-cell",
     "exports": "eyeglass-exports.js"
   },
   "keywords": [
