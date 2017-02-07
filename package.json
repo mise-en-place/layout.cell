@@ -18,5 +18,11 @@
     "url": "https://github.com/mise-en-place/layout.cell.git"
   },
   "author": "Kind",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mep-tools.trim": "github:mise-en-place/tools.trim",
+    "mep-tools.rem-calc": "github:mise-en-place/tools.rem-calc",
+    "mep-tools.conditional-respond-to": "github:mise-en-place/tools.conditional-respond-to",
+    "mep-tools.global-config": "github:mise-en-place/tools.global-config"
+  }
 }
