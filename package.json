@@ -1,15 +1,9 @@
 {
   "name": "mep-layout.cell",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Base layout cell styling",
   "main": "stylesheets/_cell.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "layout-cell",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
